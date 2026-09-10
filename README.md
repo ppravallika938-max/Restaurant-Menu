@@ -22,6 +22,7 @@ Food-Paradise/
 
 │
 ├── index.html     # Semantic structure of the landing page
+
 ├── style.css      # Custom modern styling and layouts
 └── README.md      # Project documentation
 🚀 Getting Started
