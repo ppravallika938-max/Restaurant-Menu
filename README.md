@@ -19,6 +19,7 @@ CSS3 – Custom styling, modern layouts (Flexbox/Grid), smooth hover transitions
 📂 Project Structure
 Bash
 Food-Paradise/
+
 │
 ├── index.html     # Semantic structure of the landing page
 ├── style.css      # Custom modern styling and layouts
